@@ -1,11 +1,11 @@
 {
   "site": {
     "lang": "en",
-    "title": "Webstudio responsive template",
+    "title": "Graham Consulting Website",
     "titleDelim": " | ",
-    "description": "Free webstudio responsive website template",
+    "description": "Graham Consulting Website",
     "keywords": "html template, theme, freebie, opensource",
-    "url": "http://website-templates.github.io/webstudio_responsive-template"
+    "url": "https://keifer-dev.github.io/"
   },
   "modules": {
     "googleFonts": "https://fonts.googleapis.com/css?family=Open+Sans&subset=latin,cyrillic",
